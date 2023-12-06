@@ -1,0 +1,17 @@
+*{
+    line-height: 1.5;
+}
+body{
+    background-color: black;
+    color: beige;
+    font-size: 20px;
+}
+
+ol li{
+    font-size: 30px;
+    color: #fdc703;
+}
+h2{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: aqua;
+}

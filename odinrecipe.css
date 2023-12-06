@@ -1,0 +1,25 @@
+*{
+    line-height: 1;
+}
+body {
+background-color: #151617;
+}
+
+h1{
+    color: aqua;
+    font-size: 40px;
+}
+
+a{
+    color: azure;
+    font-size: 40px;
+}
+
+li{
+    list-style-type: "\1F33F";
+}
+
+div{
+    color: aqua;
+    font-size: 30px;
+}
