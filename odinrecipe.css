@@ -11,8 +11,8 @@ h1{
 }
 
 a{
-    color: azure;
-    font-size: 40px;
+    color: aqua;
+    font-size: 30px;
 }
 
 li{
@@ -22,4 +22,8 @@ li{
 div{
     color: aqua;
     font-size: 30px;
+}
+p{
+    color: rgb(226, 80, 43);
+    font-size: 25px;
 }
